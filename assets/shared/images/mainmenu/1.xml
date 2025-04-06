@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="1.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Untitled1145_202410271609240000" x="0" y="0" width="250" height="339" frameX="-103" frameY="-137" frameWidth="541" frameHeight="541"/>
+</TextureAtlas>

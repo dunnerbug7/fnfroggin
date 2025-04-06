@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_gallery.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="gallery selected0000" x="0" y="0" width="533" height="531" frameX="2" frameY="2" frameWidth="529" frameHeight="527"/>
+	<SubTexture name="gallery unselected0000" x="533" y="0" width="517" height="512" frameX="2" frameY="2" frameWidth="513" frameHeight="508"/>
+</TextureAtlas>

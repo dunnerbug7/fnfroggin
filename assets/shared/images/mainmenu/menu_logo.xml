@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_logo.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="froggin logo selected0000" x="0" y="0" width="438" height="389" frameX="2" frameY="2" frameWidth="434" frameHeight="385"/>
+	<SubTexture name="froggin logo final0000" x="438" y="0" width="428" height="379" frameX="-24" frameY="-3" frameWidth="492" frameHeight="387"/>
+</TextureAtlas>
